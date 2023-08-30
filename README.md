@@ -3,7 +3,7 @@ i have done few migration proces of IT infrastructure using the latest cloud tec
 My background in academics covers IT operations. 
 - 👀 I’m interested in  System and IT Operations in hybrid cloud model. network and architecture design. I love to creating Powershell scripts to automate a wide range of tasks.
 - 🌱 I’m currently learning 
- Terraform
+ Terraform, Kube, Pulumi
 - 📫 How to reach me [...](https://www.linkedin.com/in/filip-k-0b33a6a3/)
 
 <!---
